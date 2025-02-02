@@ -1,4 +1,4 @@
-# Spotify Clone
+# Spotify
 
 ## Sobre o Projeto
 Este projeto consiste na recriação de uma interface semelhante ao Spotify, utilizando tecnologias web como **HTML, CSS e JavaScript**. O objetivo é proporcionar uma experiência imersiva no desenvolvimento front-end, aplicando conceitos modernos de estilização, interatividade e responsividade.
